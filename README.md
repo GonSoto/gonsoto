@@ -1,7 +1,7 @@
-## Hey,
+## Hey!
 
-My name is Gonzalo Sotomayor. I am a student in Universidad Pontificia Comillas ICADE, taking Business Administration and Business Analytics.
-From time to time, I like to try mt luck programming and messing around with technology.
+My name is <ins>Gonzalo Sotomayor</ins>. I am a student in Universidad Pontificia Comillas ICADE, taking Business Administration and Business Analytics.
+From time to time, I like to try mt luck programming and messing around with technology (whatever I can find).
 
 My main interests are: Tech, Cybersecurity, Business and Design.
 <!--
