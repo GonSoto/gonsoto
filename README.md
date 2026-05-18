@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hey,
 
+My name is Gonzalo Sotomayor. I am a student in Universidad Pontificia Comillas ICADE, taking Business Administration and Business Analytics.
+From time to time, I like to try mt luck programming and messing around with technology.
+
+My main interests are: Tech, Cybersecurity, Business and Design.
 <!--
 **GonSoto/gonsoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
